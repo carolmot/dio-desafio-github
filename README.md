@@ -32,3 +32,9 @@ No terminal insira: _**git clone "url"**_ , o projeto é baixado para a sua máq
 - _**git push -u origin main or master**_
 
 No terminal da máquina, insira o git acima. É usado para publicar todos os seus commits para o github. 
+
+- _**git pull origin main or master**_
+
+Caso faça alterações no arquivo através do editor de texto do github, após salvar as alterações devemos inserir o git acima no terminal para que as alterações sejam feitas do repositório remoto para o nosso repositório local. 
+
+
