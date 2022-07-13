@@ -27,7 +27,7 @@ No terminal insira: _**git clone "url"**_ , o projeto é baixado para a sua máq
 
  - _**git status**_ 
 
- No terminal da máquina, insira o git acima. Exibe o status do seu repositório atual
+ No terminal da máquina, insira o git acima. Exibe o status do seu repositório atual (Unmodified, modified e staged)
 
 - _**git push -u origin main or master**_
 
